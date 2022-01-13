@@ -1,2 +1,2 @@
 # The Rust Programming Language
-This repo will contain programming examples from the rust-lang book.
+This repo contains programming examples from the [rust-lang book](https://doc.rust-lang.org/book/).
